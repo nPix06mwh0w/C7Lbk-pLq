@@ -1,0 +1,18 @@
+[package]
+name = "C7Lbk-pLq"
+version = "0.1.0"
+authors = ["nPix06mwh0w@users.noreply.github.com"]
+
+description = "Play ground for Rust. Nothing worth mentioning"
+
+documentation = "https://github.com/nPix06mwh0w/C7Lbk-pLq/blob/master/README.md"
+homepage = "https://github.com/nPix06mwh0w/C7Lbk-pLq"
+repository = "https://github.com/nPix06mwh0w/C7Lbk-pLq.git"
+
+readme = "README.md"
+
+keywords = ["Rust", "Play ground", "nothing"]
+
+license = "CECILL-2.0"
+
+
